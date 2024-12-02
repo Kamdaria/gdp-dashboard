@@ -3,9 +3,9 @@ name: Streamlit app
 on:
  push:
  branches: [ "main" ]
-  pull_request:
+ pull_request:
  branches: [ "main" ]
-
+ 
 permissions:
  contents: read
 
